@@ -8,8 +8,7 @@ From Beijing China 🇨🇳
 
 Working in go development
 
-Have a nice day, and in case I don't see ya, good morning, good afternoon, good evening, and good night.
-
+Have a nice day.
 <!---
 wwwangxc/wwwangxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
