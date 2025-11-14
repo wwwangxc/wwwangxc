@@ -4,7 +4,7 @@
 
 I'm Xingchen
 
-From Beijing China 🇨🇳
+From Qingdao China 🇨🇳
 
 Working in go development
 
